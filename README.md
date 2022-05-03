@@ -26,8 +26,6 @@ PenTesting:
 
 
 
-Images/payloadOptionPHP.JPG
-
   
   Blue Team - A blue team is similar to a red team in that it also assesses network security and identifies any possible vulnerabilities.
       Some of the steps a blue team incorporates are:
@@ -55,10 +53,7 @@ Images/payloadOptionPHP.JPG
 
 
 
-Images/portscan2.JPG
-
-
-                     
+                    
                   
       
 
