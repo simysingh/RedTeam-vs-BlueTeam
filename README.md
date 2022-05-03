@@ -24,7 +24,9 @@ PenTesting:
        Reverse Shell:
               In a typical remote system access scenario, the user is the client and the target machine is the server. The user initiates a remote shell connection and               the target system listens for such connections. With a reverse shell, the roles are opposite. It is the target machine that initiates the connection to                 the user, and the user’s computer listens for incoming connections on a specified port.
 
-              Images/payloadOptionPHP.JPG
+
+
+Images/payloadOptionPHP.JPG
 
   
   Blue Team - A blue team is similar to a red team in that it also assesses network security and identifies any possible vulnerabilities.
@@ -49,6 +51,8 @@ PenTesting:
         Kibana Visualizations: 
               Visualize enables you to create visualizations of the data from your Elasticsearch indices, which you can then add to dashboards for analysis.
               Kibana visualizations are based on Elasticsearch queries. By using a series of Elasticsearch aggregations to extract and process your data, you can                     create charts that show you the trends, spikes, and dips you need to know about.
+
+
 
 
 Images/portscan2.JPG
